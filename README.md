@@ -6,8 +6,9 @@ I'm a student at FPT University, majoring in Computer Science. Currently, I'm fo
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about my habbits
 - 📫 How to reach me: kiennm98@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm so glad when people call me Kin
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kin-Xemer&show_icons=true&theme=radical
 )](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kin-Xemer&theme=blood-dark&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
