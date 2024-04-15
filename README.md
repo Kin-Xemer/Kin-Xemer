@@ -1,11 +1,10 @@
-## Hi there, I'm Nguyễn Mạnh Kiên 👋
-I'm a student at FPT University, majoring in Software Engineering. Currently, I'm focusing on learning React Native and frontend development to enhance my skills in mobile development.
+## Hi there, I'm Kien Man 👋
+I'm a student at FPT University, majoring in Software Engineering. Currently, I'm focusing on working React Native and learning frontend, backend development to enhance my skills in mobile development.
 
 - 🔭 I’m currently working on personal projects to practice my frontend skills
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about my habbits
 - 📫 How to reach me: kiennm98@gmail.com
-- ⚡ Fun fact: I'm so glad when people call me Kin
 
 #### My stats
 
@@ -14,7 +13,8 @@ I'm a student at FPT University, majoring in Software Engineering. Currently, I'
 
 #### Streak
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kin-Xemer&theme=blood-dark&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kin-Xemer&theme=blood-dark&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 #### Language
 
